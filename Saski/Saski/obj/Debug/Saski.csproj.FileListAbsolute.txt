@@ -8,3 +8,13 @@ C:\Users\P106\Desktop\Saski\Saski\Saski\obj\Debug\Saski.csproj.GenerateResource.
 C:\Users\P106\Desktop\Saski\Saski\Saski\obj\Debug\Saski.csproj.CoreCompileInputs.cache
 C:\Users\P106\Desktop\Saski\Saski\Saski\obj\Debug\Saski.exe
 C:\Users\P106\Desktop\Saski\Saski\Saski\obj\Debug\Saski.pdb
+C:\Users\User\Desktop\SaskiApp\Saski\Saski\bin\Debug\Saski.exe.config
+C:\Users\User\Desktop\SaskiApp\Saski\Saski\bin\Debug\Saski.exe
+C:\Users\User\Desktop\SaskiApp\Saski\Saski\bin\Debug\Saski.pdb
+C:\Users\User\Desktop\SaskiApp\Saski\Saski\obj\Debug\Saski.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SaskiApp\Saski\Saski\obj\Debug\Saski.Form1.resources
+C:\Users\User\Desktop\SaskiApp\Saski\Saski\obj\Debug\Saski.Properties.Resources.resources
+C:\Users\User\Desktop\SaskiApp\Saski\Saski\obj\Debug\Saski.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\SaskiApp\Saski\Saski\obj\Debug\Saski.exe
+C:\Users\User\Desktop\SaskiApp\Saski\Saski\obj\Debug\Saski.pdb
+C:\Users\User\Desktop\SaskiApp\Saski\Saski\obj\Debug\Saski.csproj.CoreCompileInputs.cache
